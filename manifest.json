@@ -7,7 +7,7 @@
 
   "manifest_version": 2,
   "name": "Pinned Google Tasks",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Go to the pinned Google Tasks tab. If it doesn't exist, it's created.",
 
   "icons": {
@@ -16,8 +16,7 @@
   },
   
   "permissions": [
-    "tabs",
-    "https://mail.google.com/tasks/canvas/*"
+    "tabs"
   ],
 
   "browser_action": {
